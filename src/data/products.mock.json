@@ -1,0 +1,322 @@
+[
+  {
+    "id": "fw-001",
+    "slug": "emerald-satin-wrap-dress",
+    "name": "Emerald Satin Wrap Dress",
+    "category": "Women's Dresses",
+    "occasion": "Wedding Guest",
+    "sizes": ["S", "M", "L"],
+    "rentalPricePerDay": 18,
+    "condition": "Excellent",
+    "color": "Emerald",
+    "material": "Satin blend",
+    "description": "A refined wrap dress with a soft drape for evening events.",
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=80"
+    ]
+  },
+  {
+    "id": "fw-002",
+    "slug": "ivory-midi-slip-dress",
+    "name": "Ivory Midi Slip Dress",
+    "category": "Women's Dresses",
+    "occasion": "Dinner",
+    "sizes": ["XS", "S", "M"],
+    "rentalPricePerDay": 16,
+    "condition": "Very Good",
+    "color": "Ivory",
+    "material": "Silk touch polyester",
+    "description": "A minimal midi dress suited for polished day-to-night styling.",
+    "images": [
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=900&q=80"
+    ]
+  },
+  {
+    "id": "fw-003",
+    "slug": "black-structured-blazer-dress",
+    "name": "Black Structured Blazer Dress",
+    "category": "Women's Dresses",
+    "occasion": "Business Event",
+    "sizes": ["M", "L"],
+    "rentalPricePerDay": 22,
+    "condition": "Excellent",
+    "color": "Black",
+    "material": "Crepe suiting",
+    "description": "A tailored blazer dress with a sharp silhouette for formal occasions.",
+    "images": [
+      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80"
+    ]
+  },
+  {
+    "id": "fw-004",
+    "slug": "rose-pleated-maxi-dress",
+    "name": "Rose Pleated Maxi Dress",
+    "category": "Women's Dresses",
+    "occasion": "Gala",
+    "sizes": ["S", "M"],
+    "rentalPricePerDay": 24,
+    "condition": "Excellent",
+    "color": "Rose",
+    "material": "Pleated chiffon",
+    "description": "A romantic maxi dress with layered movement and a soft rose tone.",
+    "images": [
+      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=900&q=80"
+    ]
+  },
+  {
+    "id": "fw-005",
+    "slug": "navy-lace-cocktail-dress",
+    "name": "Navy Lace Cocktail Dress",
+    "category": "Women's Dresses",
+    "occasion": "Cocktail",
+    "sizes": ["XS", "S", "M", "L"],
+    "rentalPricePerDay": 19,
+    "condition": "Good",
+    "color": "Navy",
+    "material": "Lace overlay",
+    "description": "A classic cocktail dress with lace detail and a fitted waist.",
+    "images": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=80"
+    ]
+  },
+  {
+    "id": "fw-006",
+    "slug": "lotus-silk-ao-dai",
+    "name": "Lotus Silk Áo Dài",
+    "category": "Áo Dài",
+    "occasion": "Graduation",
+    "sizes": ["S", "M", "L"],
+    "rentalPricePerDay": 21,
+    "condition": "Excellent",
+    "color": "Pearl White",
+    "material": "Silk blend",
+    "description": "A graceful Áo Dài with lotus-inspired detailing for graduation photos.",
+    "images": [
+      "https://images.unsplash.com/photo-1583391733956-6c78276477e2?auto=format&fit=crop&w=900&q=80"
+    ]
+  },
+  {
+    "id": "fw-007",
+    "slug": "ruby-brocade-ao-dai",
+    "name": "Ruby Brocade Áo Dài",
+    "category": "Áo Dài",
+    "occasion": "Tet Celebration",
+    "sizes": ["M", "L"],
+    "rentalPricePerDay": 23,
+    "condition": "Very Good",
+    "color": "Ruby",
+    "material": "Brocade",
+    "description": "A traditional brocade Áo Dài in a rich ruby shade.",
+    "images": [
+      "https://images.unsplash.com/photo-1592878904946-b3cd8ae243d0?auto=format&fit=crop&w=900&q=80"
+    ]
+  },
+  {
+    "id": "fw-008",
+    "slug": "sage-floral-ao-dai",
+    "name": "Sage Floral Áo Dài",
+    "category": "Áo Dài",
+    "occasion": "Family Ceremony",
+    "sizes": ["XS", "S", "M"],
+    "rentalPricePerDay": 20,
+    "condition": "Excellent",
+    "color": "Sage",
+    "material": "Printed chiffon",
+    "description": "A light floral Áo Dài designed for daytime ceremonies.",
+    "images": [
+      "https://images.unsplash.com/photo-1520975954732-35dd22299614?auto=format&fit=crop&w=900&q=80"
+    ]
+  },
+  {
+    "id": "fw-009",
+    "slug": "midnight-wool-suit",
+    "name": "Midnight Wool Suit",
+    "category": "Men's Suits",
+    "occasion": "Formal Dinner",
+    "sizes": ["M", "L", "XL"],
+    "rentalPricePerDay": 28,
+    "condition": "Excellent",
+    "color": "Midnight Navy",
+    "material": "Wool blend",
+    "description": "A clean two-piece suit with a refined navy finish.",
+    "images": [
+      "https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?auto=format&fit=crop&w=900&q=80"
+    ]
+  },
+  {
+    "id": "fw-010",
+    "slug": "charcoal-slim-fit-suit",
+    "name": "Charcoal Slim Fit Suit",
+    "category": "Men's Suits",
+    "occasion": "Business Event",
+    "sizes": ["S", "M", "L"],
+    "rentalPricePerDay": 26,
+    "condition": "Very Good",
+    "color": "Charcoal",
+    "material": "Stretch suiting",
+    "description": "A slim suit option for presentations, interviews, and receptions.",
+    "images": [
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=900&q=80"
+    ]
+  },
+  {
+    "id": "fw-011",
+    "slug": "sand-linen-summer-suit",
+    "name": "Sand Linen Summer Suit",
+    "category": "Men's Suits",
+    "occasion": "Outdoor Wedding",
+    "sizes": ["M", "L"],
+    "rentalPricePerDay": 25,
+    "condition": "Good",
+    "color": "Sand",
+    "material": "Linen blend",
+    "description": "A breathable linen suit for warm-weather celebrations.",
+    "images": [
+      "https://images.unsplash.com/photo-1516826957135-700dedea698c?auto=format&fit=crop&w=900&q=80"
+    ]
+  },
+  {
+    "id": "fw-012",
+    "slug": "classic-black-tuxedo",
+    "name": "Classic Black Tuxedo",
+    "category": "Men's Suits",
+    "occasion": "Black Tie",
+    "sizes": ["S", "M", "L", "XL"],
+    "rentalPricePerDay": 34,
+    "condition": "Excellent",
+    "color": "Black",
+    "material": "Wool suiting",
+    "description": "A timeless tuxedo for galas, weddings, and formal evening events.",
+    "images": [
+      "https://images.unsplash.com/photo-1555069519-127aadedf1ee?auto=format&fit=crop&w=900&q=80"
+    ]
+  },
+  {
+    "id": "fw-013",
+    "slug": "champagne-block-heels",
+    "name": "Champagne Block Heels",
+    "category": "Shoes",
+    "occasion": "Wedding Guest",
+    "sizes": ["36", "37", "38", "39"],
+    "rentalPricePerDay": 9,
+    "condition": "Very Good",
+    "color": "Champagne",
+    "material": "Vegan leather",
+    "description": "Stable block heels with a subtle metallic finish.",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=80"
+    ]
+  },
+  {
+    "id": "fw-014",
+    "slug": "black-patent-oxfords",
+    "name": "Black Patent Oxfords",
+    "category": "Shoes",
+    "occasion": "Black Tie",
+    "sizes": ["40", "41", "42", "43"],
+    "rentalPricePerDay": 10,
+    "condition": "Excellent",
+    "color": "Black",
+    "material": "Patent leather",
+    "description": "Polished formal oxfords for tuxedos and dark suits.",
+    "images": [
+      "https://images.unsplash.com/photo-1614252369475-531eba835eb1?auto=format&fit=crop&w=900&q=80"
+    ]
+  },
+  {
+    "id": "fw-015",
+    "slug": "ivory-ankle-strap-sandals",
+    "name": "Ivory Ankle Strap Sandals",
+    "category": "Shoes",
+    "occasion": "Graduation",
+    "sizes": ["35", "36", "37", "38"],
+    "rentalPricePerDay": 8,
+    "condition": "Good",
+    "color": "Ivory",
+    "material": "Faux leather",
+    "description": "Simple sandals designed to pair with dresses and Áo Dài looks.",
+    "images": [
+      "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=80"
+    ]
+  },
+  {
+    "id": "fw-016",
+    "slug": "brown-leather-loafers",
+    "name": "Brown Leather Loafers",
+    "category": "Shoes",
+    "occasion": "Smart Casual",
+    "sizes": ["40", "41", "42"],
+    "rentalPricePerDay": 9,
+    "condition": "Very Good",
+    "color": "Brown",
+    "material": "Leather",
+    "description": "Versatile loafers for relaxed formal styling.",
+    "images": [
+      "https://images.unsplash.com/photo-1616406432452-07bc5938759d?auto=format&fit=crop&w=900&q=80"
+    ]
+  },
+  {
+    "id": "fw-017",
+    "slug": "pearl-evening-clutch",
+    "name": "Pearl Evening Clutch",
+    "category": "Accessories",
+    "occasion": "Gala",
+    "sizes": ["One Size"],
+    "rentalPricePerDay": 7,
+    "condition": "Excellent",
+    "color": "Pearl",
+    "material": "Beaded satin",
+    "description": "A compact clutch with pearl beading for formal outfits.",
+    "images": [
+      "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?auto=format&fit=crop&w=900&q=80"
+    ]
+  },
+  {
+    "id": "fw-018",
+    "slug": "gold-chain-belt",
+    "name": "Gold Chain Belt",
+    "category": "Accessories",
+    "occasion": "Cocktail",
+    "sizes": ["One Size"],
+    "rentalPricePerDay": 5,
+    "condition": "Very Good",
+    "color": "Gold",
+    "material": "Plated metal",
+    "description": "A delicate chain belt for shaping dresses and longline tops.",
+    "images": [
+      "https://images.unsplash.com/photo-1611085583191-a3b181a88401?auto=format&fit=crop&w=900&q=80"
+    ]
+  },
+  {
+    "id": "fw-019",
+    "slug": "silk-scarf-forest-print",
+    "name": "Silk Scarf Forest Print",
+    "category": "Accessories",
+    "occasion": "Smart Casual",
+    "sizes": ["One Size"],
+    "rentalPricePerDay": 4,
+    "condition": "Excellent",
+    "color": "Forest Green",
+    "material": "Silk",
+    "description": "A soft printed scarf for adding texture to neutral outfits.",
+    "images": [
+      "https://images.unsplash.com/photo-1606760227091-3dd870d97f1d?auto=format&fit=crop&w=900&q=80"
+    ]
+  },
+  {
+    "id": "fw-020",
+    "slug": "crystal-drop-earrings",
+    "name": "Crystal Drop Earrings",
+    "category": "Accessories",
+    "occasion": "Graduation",
+    "sizes": ["One Size"],
+    "rentalPricePerDay": 6,
+    "condition": "Excellent",
+    "color": "Silver",
+    "material": "Crystal and plated brass",
+    "description": "Light-catching drop earrings for ceremonies and portraits.",
+    "images": [
+      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=900&q=80"
+    ]
+  }
+]
