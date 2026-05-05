@@ -15,9 +15,9 @@ function CatalogPage() {
   const { category = 'all' } = useParams()
   const activeCategory = categoryLabels[category] ?? 'All Rentals'
   const visibleProducts =
-    activeCategory === 'All Rentals'
+    category === 'all'
       ? products
-      : products.filter((product) => product.category === activeCategory)
+      : products.filter((product) => product.category.slug === category)
 
   return (
     <section className="mx-auto max-w-6xl px-4 py-12">
@@ -31,7 +31,7 @@ function CatalogPage() {
         </p>
       </div>
 
-      <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+      <div className="mt-8 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 xl:grid-cols-4">
         {visibleProducts.map((product) => (
           <ProductCard key={product.id} product={product} />
         ))}

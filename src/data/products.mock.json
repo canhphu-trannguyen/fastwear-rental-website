@@ -3,320 +3,380 @@
     "id": "fw-001",
     "slug": "emerald-satin-wrap-dress",
     "name": "Emerald Satin Wrap Dress",
-    "category": "Women's Dresses",
-    "occasion": "Wedding Guest",
-    "sizes": ["S", "M", "L"],
-    "rentalPricePerDay": 18,
+    "category": { "name": "Women's Dresses", "slug": "womens-dresses" },
+    "rental_price_per_day": 280000,
+    "retail_price": 2600000,
     "condition": "Excellent",
-    "color": "Emerald",
+    "sizes": ["S", "M", "L"],
+    "occasions": ["Wedding Guest", "Dinner"],
+    "colors": ["Emerald"],
     "material": "Satin blend",
-    "description": "A refined wrap dress with a soft drape for evening events.",
+    "description": "A refined wrap dress with a soft drape for evening events and polished celebrations.",
+    "unavailable_dates": ["2026-05-17", "2026-05-18"],
     "images": [
-      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=80"
+      "https://placehold.co/900x1200/dfe7dc/243126?text=Emerald+Satin+Wrap+Dress",
+      "https://placehold.co/900x1200/f3efe6/243126?text=Women's+Dresses"
     ]
   },
   {
     "id": "fw-002",
     "slug": "ivory-midi-slip-dress",
     "name": "Ivory Midi Slip Dress",
-    "category": "Women's Dresses",
-    "occasion": "Dinner",
-    "sizes": ["XS", "S", "M"],
-    "rentalPricePerDay": 16,
+    "category": { "name": "Women's Dresses", "slug": "womens-dresses" },
+    "rental_price_per_day": 240000,
+    "retail_price": 2100000,
     "condition": "Very Good",
-    "color": "Ivory",
+    "sizes": ["XS", "S", "M"],
+    "occasions": ["Dinner", "Cocktail"],
+    "colors": ["Ivory"],
     "material": "Silk touch polyester",
-    "description": "A minimal midi dress suited for polished day-to-night styling.",
+    "description": "A minimal midi dress suited for clean day-to-night styling.",
+    "unavailable_dates": ["2026-05-22"],
     "images": [
-      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=900&q=80"
+      "https://placehold.co/900x1200/f4efe4/2f3029?text=Ivory+Midi+Slip+Dress",
+      "https://placehold.co/900x1200/e5dccd/2f3029?text=Ivory+Dress+Detail"
     ]
   },
   {
     "id": "fw-003",
     "slug": "black-structured-blazer-dress",
     "name": "Black Structured Blazer Dress",
-    "category": "Women's Dresses",
-    "occasion": "Business Event",
-    "sizes": ["M", "L"],
-    "rentalPricePerDay": 22,
+    "category": { "name": "Women's Dresses", "slug": "womens-dresses" },
+    "rental_price_per_day": 320000,
+    "retail_price": 3200000,
     "condition": "Excellent",
-    "color": "Black",
+    "sizes": ["M", "L"],
+    "occasions": ["Business Event", "Cocktail"],
+    "colors": ["Black"],
     "material": "Crepe suiting",
-    "description": "A tailored blazer dress with a sharp silhouette for formal occasions.",
+    "description": "A tailored blazer dress with a sharp silhouette for formal city occasions.",
+    "unavailable_dates": ["2026-06-03", "2026-06-04"],
     "images": [
-      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80"
+      "https://placehold.co/900x1200/1f211d/f6f1e7?text=Black+Blazer+Dress",
+      "https://placehold.co/900x1200/efe8da/1f211d?text=Structured+Dress"
     ]
   },
   {
     "id": "fw-004",
     "slug": "rose-pleated-maxi-dress",
     "name": "Rose Pleated Maxi Dress",
-    "category": "Women's Dresses",
-    "occasion": "Gala",
-    "sizes": ["S", "M"],
-    "rentalPricePerDay": 24,
+    "category": { "name": "Women's Dresses", "slug": "womens-dresses" },
+    "rental_price_per_day": 350000,
+    "retail_price": 3600000,
     "condition": "Excellent",
-    "color": "Rose",
+    "sizes": ["S", "M"],
+    "occasions": ["Gala", "Wedding Guest"],
+    "colors": ["Rose"],
     "material": "Pleated chiffon",
     "description": "A romantic maxi dress with layered movement and a soft rose tone.",
+    "unavailable_dates": ["2026-05-29"],
     "images": [
-      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=900&q=80"
+      "https://placehold.co/900x1200/ead1cc/342826?text=Rose+Pleated+Maxi+Dress",
+      "https://placehold.co/900x1200/f8f0ec/342826?text=Pleated+Chiffon"
     ]
   },
   {
     "id": "fw-005",
     "slug": "navy-lace-cocktail-dress",
     "name": "Navy Lace Cocktail Dress",
-    "category": "Women's Dresses",
-    "occasion": "Cocktail",
-    "sizes": ["XS", "S", "M", "L"],
-    "rentalPricePerDay": 19,
+    "category": { "name": "Women's Dresses", "slug": "womens-dresses" },
+    "rental_price_per_day": 260000,
+    "retail_price": 2400000,
     "condition": "Good",
-    "color": "Navy",
+    "sizes": ["XS", "S", "M", "L"],
+    "occasions": ["Cocktail", "Dinner"],
+    "colors": ["Navy"],
     "material": "Lace overlay",
     "description": "A classic cocktail dress with lace detail and a fitted waist.",
+    "unavailable_dates": [],
     "images": [
-      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=80"
+      "https://placehold.co/900x1200/263247/f4efe4?text=Navy+Lace+Cocktail+Dress",
+      "https://placehold.co/900x1200/e7e2d6/263247?text=Lace+Overlay"
     ]
   },
   {
     "id": "fw-006",
     "slug": "lotus-silk-ao-dai",
     "name": "Lotus Silk Áo Dài",
-    "category": "Áo Dài",
-    "occasion": "Graduation",
-    "sizes": ["S", "M", "L"],
-    "rentalPricePerDay": 21,
+    "category": { "name": "Áo Dài", "slug": "ao-dai" },
+    "rental_price_per_day": 300000,
+    "retail_price": 3100000,
     "condition": "Excellent",
-    "color": "Pearl White",
+    "sizes": ["S", "M", "L"],
+    "occasions": ["Graduation", "Family Ceremony"],
+    "colors": ["Pearl White", "Lotus Pink"],
     "material": "Silk blend",
-    "description": "A graceful Áo Dài with lotus-inspired detailing for graduation photos.",
+    "description": "A graceful Áo Dài with lotus-inspired detailing for graduation portraits and ceremonies.",
+    "unavailable_dates": ["2026-05-15", "2026-05-16", "2026-06-01"],
     "images": [
-      "https://images.unsplash.com/photo-1583391733956-6c78276477e2?auto=format&fit=crop&w=900&q=80"
+      "https://placehold.co/900x1200/f7f1e6/2f3a31?text=Lotus+Silk+Ao+Dai",
+      "https://placehold.co/900x1200/e8d7c2/2f3a31?text=Graduation+Ao+Dai"
     ]
   },
   {
     "id": "fw-007",
     "slug": "ruby-brocade-ao-dai",
     "name": "Ruby Brocade Áo Dài",
-    "category": "Áo Dài",
-    "occasion": "Tet Celebration",
-    "sizes": ["M", "L"],
-    "rentalPricePerDay": 23,
+    "category": { "name": "Áo Dài", "slug": "ao-dai" },
+    "rental_price_per_day": 340000,
+    "retail_price": 3600000,
     "condition": "Very Good",
-    "color": "Ruby",
+    "sizes": ["M", "L"],
+    "occasions": ["Tet Celebration", "Family Ceremony"],
+    "colors": ["Ruby"],
     "material": "Brocade",
-    "description": "A traditional brocade Áo Dài in a rich ruby shade.",
+    "description": "A traditional brocade Áo Dài in a rich ruby shade for celebratory events.",
+    "unavailable_dates": ["2026-05-25"],
     "images": [
-      "https://images.unsplash.com/photo-1592878904946-b3cd8ae243d0?auto=format&fit=crop&w=900&q=80"
+      "https://placehold.co/900x1200/8f2f2d/f8efe7?text=Ruby+Brocade+Ao+Dai",
+      "https://placehold.co/900x1200/f0dfcf/8f2f2d?text=Brocade+Ao+Dai"
     ]
   },
   {
     "id": "fw-008",
     "slug": "sage-floral-ao-dai",
     "name": "Sage Floral Áo Dài",
-    "category": "Áo Dài",
-    "occasion": "Family Ceremony",
-    "sizes": ["XS", "S", "M"],
-    "rentalPricePerDay": 20,
+    "category": { "name": "Áo Dài", "slug": "ao-dai" },
+    "rental_price_per_day": 290000,
+    "retail_price": 2800000,
     "condition": "Excellent",
-    "color": "Sage",
+    "sizes": ["XS", "S", "M"],
+    "occasions": ["Family Ceremony", "Graduation"],
+    "colors": ["Sage", "Cream"],
     "material": "Printed chiffon",
-    "description": "A light floral Áo Dài designed for daytime ceremonies.",
+    "description": "A light floral Áo Dài designed for daytime ceremonies and keepsake photos.",
+    "unavailable_dates": [],
     "images": [
-      "https://images.unsplash.com/photo-1520975954732-35dd22299614?auto=format&fit=crop&w=900&q=80"
+      "https://placehold.co/900x1200/d9e4d0/283329?text=Sage+Floral+Ao+Dai",
+      "https://placehold.co/900x1200/f5efe4/283329?text=Floral+Ao+Dai"
     ]
   },
   {
     "id": "fw-009",
     "slug": "midnight-wool-suit",
     "name": "Midnight Wool Suit",
-    "category": "Men's Suits",
-    "occasion": "Formal Dinner",
-    "sizes": ["M", "L", "XL"],
-    "rentalPricePerDay": 28,
+    "category": { "name": "Men's Suits", "slug": "mens-suits" },
+    "rental_price_per_day": 420000,
+    "retail_price": 5200000,
     "condition": "Excellent",
-    "color": "Midnight Navy",
+    "sizes": ["M", "L", "XL"],
+    "occasions": ["Formal Dinner", "Wedding Guest"],
+    "colors": ["Midnight Navy"],
     "material": "Wool blend",
     "description": "A clean two-piece suit with a refined navy finish.",
+    "unavailable_dates": ["2026-06-08"],
     "images": [
-      "https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?auto=format&fit=crop&w=900&q=80"
+      "https://placehold.co/900x1200/1f2933/f7f1e7?text=Midnight+Wool+Suit",
+      "https://placehold.co/900x1200/e8e1d4/1f2933?text=Men's+Suit"
     ]
   },
   {
     "id": "fw-010",
     "slug": "charcoal-slim-fit-suit",
     "name": "Charcoal Slim Fit Suit",
-    "category": "Men's Suits",
-    "occasion": "Business Event",
-    "sizes": ["S", "M", "L"],
-    "rentalPricePerDay": 26,
+    "category": { "name": "Men's Suits", "slug": "mens-suits" },
+    "rental_price_per_day": 390000,
+    "retail_price": 4700000,
     "condition": "Very Good",
-    "color": "Charcoal",
+    "sizes": ["S", "M", "L"],
+    "occasions": ["Business Event", "Formal Dinner"],
+    "colors": ["Charcoal"],
     "material": "Stretch suiting",
     "description": "A slim suit option for presentations, interviews, and receptions.",
+    "unavailable_dates": [],
     "images": [
-      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=900&q=80"
+      "https://placehold.co/900x1200/3c3d38/f4efe4?text=Charcoal+Slim+Fit+Suit",
+      "https://placehold.co/900x1200/e7dfd2/3c3d38?text=Tailored+Suit"
     ]
   },
   {
     "id": "fw-011",
     "slug": "sand-linen-summer-suit",
     "name": "Sand Linen Summer Suit",
-    "category": "Men's Suits",
-    "occasion": "Outdoor Wedding",
-    "sizes": ["M", "L"],
-    "rentalPricePerDay": 25,
+    "category": { "name": "Men's Suits", "slug": "mens-suits" },
+    "rental_price_per_day": 360000,
+    "retail_price": 4300000,
     "condition": "Good",
-    "color": "Sand",
+    "sizes": ["M", "L"],
+    "occasions": ["Outdoor Wedding", "Smart Casual"],
+    "colors": ["Sand"],
     "material": "Linen blend",
     "description": "A breathable linen suit for warm-weather celebrations.",
+    "unavailable_dates": ["2026-05-31"],
     "images": [
-      "https://images.unsplash.com/photo-1516826957135-700dedea698c?auto=format&fit=crop&w=900&q=80"
+      "https://placehold.co/900x1200/d6c3a3/302b22?text=Sand+Linen+Summer+Suit",
+      "https://placehold.co/900x1200/f4ead8/302b22?text=Linen+Suit"
     ]
   },
   {
     "id": "fw-012",
     "slug": "classic-black-tuxedo",
     "name": "Classic Black Tuxedo",
-    "category": "Men's Suits",
-    "occasion": "Black Tie",
-    "sizes": ["S", "M", "L", "XL"],
-    "rentalPricePerDay": 34,
+    "category": { "name": "Men's Suits", "slug": "mens-suits" },
+    "rental_price_per_day": 520000,
+    "retail_price": 6500000,
     "condition": "Excellent",
-    "color": "Black",
+    "sizes": ["S", "M", "L", "XL"],
+    "occasions": ["Black Tie", "Gala"],
+    "colors": ["Black"],
     "material": "Wool suiting",
     "description": "A timeless tuxedo for galas, weddings, and formal evening events.",
+    "unavailable_dates": ["2026-06-12", "2026-06-13"],
     "images": [
-      "https://images.unsplash.com/photo-1555069519-127aadedf1ee?auto=format&fit=crop&w=900&q=80"
+      "https://placehold.co/900x1200/111111/f9f3e8?text=Classic+Black+Tuxedo",
+      "https://placehold.co/900x1200/e9e2d5/111111?text=Black+Tie+Suit"
     ]
   },
   {
     "id": "fw-013",
     "slug": "champagne-block-heels",
     "name": "Champagne Block Heels",
-    "category": "Shoes",
-    "occasion": "Wedding Guest",
-    "sizes": ["36", "37", "38", "39"],
-    "rentalPricePerDay": 9,
+    "category": { "name": "Shoes", "slug": "shoes" },
+    "rental_price_per_day": 120000,
+    "retail_price": 1200000,
     "condition": "Very Good",
-    "color": "Champagne",
+    "sizes": ["36", "37", "38", "39"],
+    "occasions": ["Wedding Guest", "Gala"],
+    "colors": ["Champagne"],
     "material": "Vegan leather",
     "description": "Stable block heels with a subtle metallic finish.",
+    "unavailable_dates": [],
     "images": [
-      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=80"
+      "https://placehold.co/900x1200/e9dcc3/372f24?text=Champagne+Block+Heels",
+      "https://placehold.co/900x1200/f7f0e5/372f24?text=Formal+Heels"
     ]
   },
   {
     "id": "fw-014",
     "slug": "black-patent-oxfords",
     "name": "Black Patent Oxfords",
-    "category": "Shoes",
-    "occasion": "Black Tie",
-    "sizes": ["40", "41", "42", "43"],
-    "rentalPricePerDay": 10,
+    "category": { "name": "Shoes", "slug": "shoes" },
+    "rental_price_per_day": 140000,
+    "retail_price": 1500000,
     "condition": "Excellent",
-    "color": "Black",
+    "sizes": ["40", "41", "42", "43"],
+    "occasions": ["Black Tie", "Formal Dinner"],
+    "colors": ["Black"],
     "material": "Patent leather",
     "description": "Polished formal oxfords for tuxedos and dark suits.",
+    "unavailable_dates": ["2026-05-20"],
     "images": [
-      "https://images.unsplash.com/photo-1614252369475-531eba835eb1?auto=format&fit=crop&w=900&q=80"
+      "https://placehold.co/900x1200/161616/f4efe4?text=Black+Patent+Oxfords",
+      "https://placehold.co/900x1200/e5ddd0/161616?text=Formal+Oxfords"
     ]
   },
   {
     "id": "fw-015",
     "slug": "ivory-ankle-strap-sandals",
     "name": "Ivory Ankle Strap Sandals",
-    "category": "Shoes",
-    "occasion": "Graduation",
-    "sizes": ["35", "36", "37", "38"],
-    "rentalPricePerDay": 8,
+    "category": { "name": "Shoes", "slug": "shoes" },
+    "rental_price_per_day": 110000,
+    "retail_price": 980000,
     "condition": "Good",
-    "color": "Ivory",
+    "sizes": ["35", "36", "37", "38"],
+    "occasions": ["Graduation", "Dinner"],
+    "colors": ["Ivory"],
     "material": "Faux leather",
     "description": "Simple sandals designed to pair with dresses and Áo Dài looks.",
+    "unavailable_dates": ["2026-06-02"],
     "images": [
-      "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=80"
+      "https://placehold.co/900x1200/f7f1e8/363026?text=Ivory+Ankle+Strap+Sandals",
+      "https://placehold.co/900x1200/e8dfd1/363026?text=Ivory+Sandals"
     ]
   },
   {
     "id": "fw-016",
     "slug": "brown-leather-loafers",
     "name": "Brown Leather Loafers",
-    "category": "Shoes",
-    "occasion": "Smart Casual",
-    "sizes": ["40", "41", "42"],
-    "rentalPricePerDay": 9,
+    "category": { "name": "Shoes", "slug": "shoes" },
+    "rental_price_per_day": 120000,
+    "retail_price": 1300000,
     "condition": "Very Good",
-    "color": "Brown",
+    "sizes": ["40", "41", "42"],
+    "occasions": ["Smart Casual", "Business Event"],
+    "colors": ["Brown"],
     "material": "Leather",
     "description": "Versatile loafers for relaxed formal styling.",
+    "unavailable_dates": [],
     "images": [
-      "https://images.unsplash.com/photo-1616406432452-07bc5938759d?auto=format&fit=crop&w=900&q=80"
+      "https://placehold.co/900x1200/7a4e2c/f8efe2?text=Brown+Leather+Loafers",
+      "https://placehold.co/900x1200/e9ddcc/7a4e2c?text=Smart+Loafers"
     ]
   },
   {
     "id": "fw-017",
     "slug": "pearl-evening-clutch",
     "name": "Pearl Evening Clutch",
-    "category": "Accessories",
-    "occasion": "Gala",
-    "sizes": ["One Size"],
-    "rentalPricePerDay": 7,
+    "category": { "name": "Accessories", "slug": "accessories" },
+    "rental_price_per_day": 90000,
+    "retail_price": 900000,
     "condition": "Excellent",
-    "color": "Pearl",
+    "sizes": ["One Size"],
+    "occasions": ["Gala", "Wedding Guest"],
+    "colors": ["Pearl"],
     "material": "Beaded satin",
     "description": "A compact clutch with pearl beading for formal outfits.",
+    "unavailable_dates": ["2026-05-24"],
     "images": [
-      "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?auto=format&fit=crop&w=900&q=80"
+      "https://placehold.co/900x1200/eee6d8/332c23?text=Pearl+Evening+Clutch",
+      "https://placehold.co/900x1200/f8f2e9/332c23?text=Beaded+Clutch"
     ]
   },
   {
     "id": "fw-018",
     "slug": "gold-chain-belt",
     "name": "Gold Chain Belt",
-    "category": "Accessories",
-    "occasion": "Cocktail",
-    "sizes": ["One Size"],
-    "rentalPricePerDay": 5,
+    "category": { "name": "Accessories", "slug": "accessories" },
+    "rental_price_per_day": 70000,
+    "retail_price": 650000,
     "condition": "Very Good",
-    "color": "Gold",
+    "sizes": ["One Size"],
+    "occasions": ["Cocktail", "Dinner"],
+    "colors": ["Gold"],
     "material": "Plated metal",
     "description": "A delicate chain belt for shaping dresses and longline tops.",
+    "unavailable_dates": [],
     "images": [
-      "https://images.unsplash.com/photo-1611085583191-a3b181a88401?auto=format&fit=crop&w=900&q=80"
+      "https://placehold.co/900x1200/d8b96e/302915?text=Gold+Chain+Belt",
+      "https://placehold.co/900x1200/f5ecd5/302915?text=Gold+Accessory"
     ]
   },
   {
     "id": "fw-019",
     "slug": "silk-scarf-forest-print",
     "name": "Silk Scarf Forest Print",
-    "category": "Accessories",
-    "occasion": "Smart Casual",
-    "sizes": ["One Size"],
-    "rentalPricePerDay": 4,
+    "category": { "name": "Accessories", "slug": "accessories" },
+    "rental_price_per_day": 60000,
+    "retail_price": 720000,
     "condition": "Excellent",
-    "color": "Forest Green",
+    "sizes": ["One Size"],
+    "occasions": ["Smart Casual", "Business Event"],
+    "colors": ["Forest Green", "Cream"],
     "material": "Silk",
     "description": "A soft printed scarf for adding texture to neutral outfits.",
+    "unavailable_dates": ["2026-06-05"],
     "images": [
-      "https://images.unsplash.com/photo-1606760227091-3dd870d97f1d?auto=format&fit=crop&w=900&q=80"
+      "https://placehold.co/900x1200/294235/f7efe3?text=Silk+Scarf+Forest+Print",
+      "https://placehold.co/900x1200/e6decf/294235?text=Silk+Scarf"
     ]
   },
   {
     "id": "fw-020",
     "slug": "crystal-drop-earrings",
     "name": "Crystal Drop Earrings",
-    "category": "Accessories",
-    "occasion": "Graduation",
-    "sizes": ["One Size"],
-    "rentalPricePerDay": 6,
+    "category": { "name": "Accessories", "slug": "accessories" },
+    "rental_price_per_day": 80000,
+    "retail_price": 850000,
     "condition": "Excellent",
-    "color": "Silver",
+    "sizes": ["One Size"],
+    "occasions": ["Graduation", "Gala"],
+    "colors": ["Silver", "Crystal"],
     "material": "Crystal and plated brass",
     "description": "Light-catching drop earrings for ceremonies and portraits.",
+    "unavailable_dates": [],
     "images": [
-      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=900&q=80"
+      "https://placehold.co/900x1200/dde4e1/2b302e?text=Crystal+Drop+Earrings",
+      "https://placehold.co/900x1200/f2eee7/2b302e?text=Crystal+Accessory"
     ]
   }
 ]
