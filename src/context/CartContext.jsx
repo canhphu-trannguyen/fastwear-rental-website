@@ -40,11 +40,16 @@ export function CartProvider({ children }) {
     setCartItems((currentItems) => currentItems.filter((item) => item.id !== itemId))
   }
 
+  function clearCart() {
+    setCartItems([])
+  }
+
   const value = useMemo(
     () => ({
       cartItems,
       addCartItem,
       removeCartItem,
+      clearCart,
       cartCount: cartItems.length,
     }),
     [cartItems],

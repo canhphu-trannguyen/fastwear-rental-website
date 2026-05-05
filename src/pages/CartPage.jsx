@@ -84,6 +84,12 @@ function CartPage() {
               strong
             />
           </div>
+          <Link
+            to="/checkout"
+            className="mt-6 flex w-full justify-center rounded-md bg-emerald-950 px-4 py-3 text-sm font-semibold text-white transition hover:bg-stone-900"
+          >
+            Proceed to Checkout
+          </Link>
         </aside>
       </div>
     </section>
